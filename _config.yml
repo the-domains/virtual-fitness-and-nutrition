@@ -1,0 +1,28 @@
+name: 'Virtual Fitness & Nutrition'
+favicon: null
+layout_spectrum: 0.7352228229865432
+typography_spectrum: 0.6564690475352108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7647822566796094
+  lightness: 0.8345239299815148
+  saturation: 0.36855241004377604
+  rhythmicContrast: 0.6652035738807172
+purpose: []
